@@ -1,1 +1,84 @@
-[{"id"  :"0","title"  :"Super Mario Bros","genre"  :"Platformer","year"  :"1985","price"  :"19.99"},{"id"  :"1","title"  :"The Legend of Zelda","genre"  :"Action-Adventure","year"  :"1986","price"  :"29.99"},{"id"  :"2","title"  :"Pac-Man","genre"  :"Arcade","year"  :"1980","price"  :"9.99"},{"id"  :"3","title"  :"Tetris","genre"  :"Puzzle","year"  :"1984","price"  :"14.99"},{"id"  :"4","title"  :"Space Invaders","genre"  :"Arcade","year"  :"1978","price"  :"7.99"},{"id"  :"5","title"  :"Donkey Kong","genre"  :"Platformer","year"  :"1981","price"  :"12.99"},{"id"  :"6","title"  :"Street Fighter II","genre"  :"Fighting","year"  :"1991","price"  :"24.99"},{"id"  :"7","title"  :"Mega Man","genre"  :"Action","year"  :"1987","price"  :"17.99"},{"id"  :"8","title"  :"Final Fantasy","genre"  :"Role-Playing","year"  :"1987","price"  :"39.99"},{"id"  :"9","title"  :"Sonic the Hedgehog","genre"  :"Platformer","year"  :"1991","price"  :"19.99"}]
+{
+  "table": [
+    {
+      "id": "0",
+      "title": "Super Mario Bros",
+      "genre": "Platformer",
+      "year": "1985",
+      "price": "19.99",
+      "description": "Super Mario Bros é um icônico jogo de plataforma desenvolvido pela Nintendo. Nele, você controla o encanador Mario em sua missão para resgatar a Princesa Peach das garras do vilão Bowser. Supere obstáculos, pule em inimigos e colete moedas em diversos níveis cheios de aventura e diversão!"
+    },
+    {
+      "id": "1",
+      "title": "The Legend of Zelda",
+      "genre": "Action-Adventure",
+      "year": "1986",
+      "price": "29.99",
+      "description": "The Legend of Zelda é uma renomada série de jogos de ação e aventura, e o primeiro jogo da franquia é um verdadeiro clássico. Você assume o papel do herói Link, que deve explorar um vasto mundo, enfrentar monstros e resolver quebra-cabeças para resgatar a Princesa Zelda e derrotar o maléfico Ganon."
+    },
+    {
+      "id": "2",
+      "title": "Pac-Man",
+      "genre": "Arcade",
+      "year": "1980",
+      "price": "9.99",
+      "description": "Pac-Man é um dos jogos mais famosos de todos os tempos. Neste clássico jogo de arcade, você controla o personagem Pac-Man enquanto ele come bolinhas no labirinto e foge dos fantasmas coloridos. Conquiste pontos, pegue os poderes especiais e veja até onde você consegue chegar!"
+    },
+    {
+      "id": "3",
+      "title": "Tetris",
+      "genre": "Puzzle",
+      "year": "1984",
+      "price": "14.99",
+      "description": "Tetris é um viciante jogo de quebra-cabeça que desafia sua habilidade e velocidade de raciocínio. Encaixe as peças que caem do topo da tela para formar linhas horizontais completas. Quanto mais linhas você completar, mais pontos você ganha. Divirta-se com este clássico intemporal!"
+    },
+    {
+      "id": "4",
+      "title": "Space Invaders",
+      "genre": "Arcade",
+      "year": "1978",
+      "price": "7.99",
+      "description": "Space Invaders é um jogo de tiro espacial que se tornou um marco na história dos videogames. Controle sua nave espacial e defenda a Terra dos invasores alienígenas que descem em formação. Atire neles antes que alcancem o solo e proteja nosso planeta!"
+    },
+    {
+      "id": "5",
+      "title": "Donkey Kong",
+      "genre": "Platformer",
+      "year": "1981",
+      "price": "12.99",
+      "description": "Donkey Kong é um clássico jogo de plataforma que marcou o início da carreira de Mario. Assuma o papel do herói e enfrente os obstáculos criados pelo gorila Donkey Kong enquanto você corre para resgatar a Princesa Peach. Escada acima, barril abaixo, a aventura começa!"
+    },
+    {
+      "id": "6",
+      "title": "Street Fighter II",
+      "genre": "Fighting",
+      "year": "1991",
+      "price": "24.99",
+      "description": "Street Fighter II é um dos jogos de luta mais populares de todos os tempos. Escolha um dos personagens disponíveis, cada um com seus próprios estilos de luta e habilidades especiais, e enfrente adversários em combates intensos. Desenvolva estratégias, execute golpes especiais e torne-se o campeão!"
+    },
+    {
+      "id": "7",
+      "title": "Mega Man",
+      "genre": "Action",
+      "year": "1987",
+      "price": "17.99",
+      "description": "Mega Man é um jogo de ação e plataforma que segue as aventuras do ciborgue azul conhecido como Mega Man. Com a ajuda de sua arma especial, o Mega Buster, ele deve lutar contra o malvado Dr. Wily e seus robôs, enfrentando desafios emocionantes e batalhas épicas."
+    },
+    {
+      "id": "8",
+      "title": "Final Fantasy",
+      "genre": "Role-Playing",
+      "year": "1987",
+      "price": "39.99",
+      "description": "Final Fantasy é uma famosa série de jogos de RPG que apresenta histórias épicas, batalhas emocionantes e personagens inesquecíveis em um mundo de fantasia. Cada jogo da série oferece uma experiência única, permitindo que os jogadores mergulhem em aventuras fascinantes e explorem vastos reinos cheios de magia e perigos."
+    },
+    {
+      "id": "9",
+      "title": "Sonic the Hedgehog",
+      "genre": "Platformer",
+      "year": "1991",
+      "price": "19.99",
+      "description": "Sonic the Hedgehog é um jogo de plataforma cheio de velocidade e ação. Acompanhe Sonic, o ouriço azul mais rápido do mundo, em suas aventuras para deter o maligno Dr. Robotnik. Corra por loops, salte em plataformas e colete anéis dourados enquanto enfrenta desafios eletrizantes e protege o mundo dos animais indefesos."
+    }
+  ]
+}
